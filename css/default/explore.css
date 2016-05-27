@@ -1,0 +1,19 @@
+.national h2{
+  padding: 18px 0 12px 0;
+}
+.text-shadow{
+  color:#fff;
+  text-shadow: 4px 4px 2px #181818;
+}
+
+.lint{
+  background-size: cover;
+  background-image:url(../../images/header.jpg);
+}
+
+
+.grey{
+  background-color: #eee;
+  border-top: 1px solid #c6c6c6;
+  border-bottom: 1px solid #c6c6c6;
+}
